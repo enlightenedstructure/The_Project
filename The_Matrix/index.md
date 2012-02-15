@@ -20,11 +20,11 @@ layout: default
 _Originally forked from [enlightenedstructure.hkw7.org/Projects][]_
 
 
-[The Trust Exchange]: ../Trust_Exchange
-[Core Network]: ../Core_Network
+[The Trust Exchange]: http://enlightenedstructure.hkw7.org/Trust_Exchange
+[Core Network]: http://enlightenedstructure.hkw7.org/Core_Network
 [Spaciousness]: http://spaciousness.org/
-[ForkDiffMerge]: ../ForkDiffMerge
-[MPARCS]: ../Massively_Parallel_Academic_Research_Collaboration_System
+[ForkDiffMerge]: http://enlightenedstructure.hkw7.org/ForkDiffMerge
+[MPARCS]: http://enlightenedstructure.hkw7.org/Massively_Parallel_Academic_Research_Collaboration_System
 [Camlistore]: http://camlistore.org/
 [Base Paradigm]: http://baseparadigm.org/
 [enlightenedstructure.hkw7.org/Projects]: http://enlightenedstructure.hkw7.org/Projects/
