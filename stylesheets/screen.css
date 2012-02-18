@@ -8,7 +8,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 table, tr, th, td {
-  margin: 0 0.333em;
+  margin: 0.333em 0;
   padding: 0;
   border: 1px solid #ddd;
   font-size: 100%;
@@ -2179,3 +2179,4 @@ body > footer a:hover {
 body > footer p:last-child {
   margin-bottom: 0
 }
+    
