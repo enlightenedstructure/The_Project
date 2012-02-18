@@ -2183,3 +2183,7 @@ body > footer p:last-child {
   margin-bottom: 0
 }
     
+post-meta {
+  font-style: italic;
+}
+
