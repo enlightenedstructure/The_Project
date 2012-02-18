@@ -8,7 +8,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 table, tr, th, td {
-  margin: 0.333em 0;
+  margin: 0;
   padding: 0;
   border: 1px solid #ddd;
   font-size: 100%;
@@ -16,6 +16,9 @@ table, tr, th, td {
   vertical-align: baseline
 }
 
+th, td {
+  padding: 0 0.333em;
+}
 
 body {
   line-height: 1
