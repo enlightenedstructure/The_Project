@@ -28,7 +28,7 @@ All of the content on this site is Creative Commons licensed, and the site sourc
 where it can be easily forked -- please do 
 <a href="https://github.com/onesunone/The_Project">make your own version</a>, 
 add more ideas and projects,
-and let us know about your improvements...
+and let us know about your improvements.....
 
 
 
