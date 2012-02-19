@@ -12,6 +12,7 @@ The purpose of this site is to act as a seed crystal for the coming together of 
 and the various existing projects that comprise this movement already.            
 
 Key starting points:
+
   * [The vision][]: what we want to do
   * [The projects][]: how we plan to get there
   * [The tools][]: how we communicate along the way
