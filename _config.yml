@@ -1,4 +1,3 @@
 lsi: false
 pygments: true
 permalink: /:title
-default_asides: [asides/recent_posts.html]
