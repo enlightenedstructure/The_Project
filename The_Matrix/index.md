@@ -1,5 +1,7 @@
 ---
-layout: default
+title: The Matrix
+authors: Harlan Knight Wood
+layout: post
 ---
 
 |                          | Node Stores                 | Node Relationships        | Node Syncing              | Node Differences      | Node Merging                | Node Transforms          | Node Visualization       | Node Navigation    | Trust Ratings               |
