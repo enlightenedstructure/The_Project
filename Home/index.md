@@ -27,9 +27,9 @@ The list below is a _starting point only_ of key infrastructure projects.
 | NodeSentences            |                             |  &#x2713;                 |                           |                       |                             |                          |                          |                    |                             |
 | NodeMap                  | &#x2713;                    |                           |                           |                       |                             |                          |                          |                    |                             |  
   
-<center>&infin; &infin; &infin;</center>  
+<br />  
 
-_Originally forked from [enlightenedstructure.hkw7.org/Projects][]_
+_The table above was originally forked from [enlightenedstructure.hkw7.org/Projects][]_
 
 All of the content on this site is Creative Commons licensed, and the site source is hosted on Github,
 where it can be easily forked -- please do 
