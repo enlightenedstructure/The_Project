@@ -1,7 +1,7 @@
 ---
 title: 
 authors: 
-layout: post
+layout: default
 ---
 
 "The Project" is what we are playfully calling
