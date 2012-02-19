@@ -1,5 +1,5 @@
 ---
-title: Communication_Tools
+title: Communication Tools
 authors: Venessa Miemis, Harlan Knight Wood
 layout: post
 ---
