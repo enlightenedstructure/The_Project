@@ -1,5 +1,5 @@
 ---
-title: Infrastructure
+title: Communication Infrastructure
 authors: Venessa Miemis, Harlan Knight Wood
 layout: post
 ---
@@ -75,5 +75,3 @@ adam and venessa were discussing today that once we had a bunch of builders in a
 ### Narrow it down: let's pick one or two 
 
 i proposed several communication channels we can utilize - let's pick one or two and see what works. (i'd recommend not doing all of them, b/c we've kind of been experimenting with that, and it's a nightmare. we never know where to look for what kind of information.
-
-
