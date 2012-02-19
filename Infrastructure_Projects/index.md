@@ -32,6 +32,7 @@ and let us know about your improvements.
 
 
 
+
 [The Trust Exchange]: http://enlightenedstructure.hkw7.org/Trust_Exchange
 [Core Network]: http://enlightenedstructure.hkw7.org/Core_Network
 [Spaciousness]: http://spaciousness.org/
