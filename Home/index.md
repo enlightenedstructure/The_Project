@@ -9,7 +9,9 @@ the matrix of enlightened technology projects that is swirling around,
 wanting to meet each other and play:
 
 The purpose of this site is to act as a seed crystal for the coming together of a post-scarcity creativity economy,
-and the various existing projects that comprise this movement already.
+and the various existing projects that comprise this movement already.            
+
+The list below is a _starting point only_ of key infrastructure projects.  
 
 
 |                          | Node Stores                 | Node Relationships        | Node Syncing              | Node Differences      | Node Merging                | Node Transforms          | Node Visualization       | Node Navigation    | Trust Ratings               |
